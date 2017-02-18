@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for data scientist tool box project work
+Repo for _data scientist tool box_ **project work**
